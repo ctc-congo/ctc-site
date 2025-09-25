@@ -1,4 +1,8 @@
----
+<nav>
+  <a href="./index.md">🏠 Accueil</a> | 
+  <a href="#services">🛠️ Services</a> | 
+  <a href="#contact">📞 Contact</a>
+</nav>---
 layout: default
 title: "Accueil"
 ---
